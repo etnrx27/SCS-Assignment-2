@@ -1,6 +1,31 @@
 # SCS-Assignment-2
-Final Assignment to harden the Linux operating system for 'Server & Cloud Security' Module Taken in NP Semester 4.
-# What is Required
-Using features available on the Linux operating system, harden a Linux Operating System to make it more secure from attacks. The Linux Operating System that was decided to be used is "Ubuntu". Please refer to the document, "SCS Assignment - Oct 2021", to gain more information about the assignment. 
-# My Duties
-I was involved in a few of the security features implemented in the Linux Operating System. These security features are server backup, firewall configuration, blocking usage of HTTP methods, and installing antivirus software.
+Hardening the Linux operating system.
+
+# Tasks
+1) Setup Linux OS
+2) Secure Linux OS
+   1) User Account Management
+   2) Disk Encryption
+   3) Secure SSH
+   4) Apache SSL Hardening
+   5) SSH Keys For Authentication
+   6) 2-factor Authentication
+   7) Disable Root Account
+   8) Sudo List
+   9) Server Backup
+   10) Linux Firewall
+   11) Blocking HTTP Methods
+   12) Anti Virus
+   13) Logging
+   14) Automatic Update
+   15) HIDS
+   16) Fail2Ban For FTP
+  
+# Materials
+1) Hardening_Linux_OS.pptx
+
+# Contributions
+1) Neo Rei Siang Edward
+2) Ow Kai Jie Clarence
+3) Mabel Choi JingYi
+4) Chua Isaac
