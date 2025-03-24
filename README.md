@@ -1,4 +1,4 @@
-# SCS-Assignment-2
+# Hardening_Linux_OS
 Hardening the Linux operating system.
 
 # Tasks
